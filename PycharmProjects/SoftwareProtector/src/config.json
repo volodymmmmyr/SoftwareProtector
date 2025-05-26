@@ -1,0 +1,4 @@
+{
+  "valid_keys": ["ABC123", "XYZ789"],
+  "expected_hash": "f033c22847ea280ef4bd0fc175b31bea9730c9cb569e8f399edfa22b8abb8789"
+}
